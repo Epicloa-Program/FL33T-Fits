@@ -1,14 +1,13 @@
 # Exequror
 
-Fast/Cheap Armor Logistics
+High Damage/Mobility Fleet Logi
 
 ## Description
 
-An Exequror designed for the logi wing of our long range ENI fleet, tank is on the lighter side cause
-these should never be too close from the line of fire. Instead we favoured speed to let them keep up
-with the ENIs. If your capacitor skills are low buy/use a Standard Mindflood.
+A very fast cap-chainless logistics cruiser for use with the ENI fleet.
 
 ## Fit
+
 ```
 [Exequror, [NVY-30] Exequror]
 
@@ -24,17 +23,18 @@ Medium Compact Pb-Acid Cap Battery
 Cap Recharger II
 Cap Recharger II
 
+Medium I-ax Enduring Remote Armor Repairer
+Medium I-ax Enduring Remote Armor Repairer
 Medium Coaxial Compact Remote Armor Repairer
-Medium I-ax Enduring Remote Armor Repairer
-Medium I-ax Enduring Remote Armor Repairer
 
 Medium Capacitor Control Circuit I
 Medium Capacitor Control Circuit I
 Medium Capacitor Control Circuit I
 
 
-Medium Armor Maintenance Bot I x5
+Acolyte I x5
+Light Armor Maintenance Bot I x5
 
 
-Nanite Repair Paste x50
+Nanite Repair Paste x10
 ```
